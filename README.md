@@ -5,9 +5,11 @@ This is the initial build of a project for learning HTML, CSS, CSS and JavaScrip
 When downloading a project and deploying it, you need to write the following commands sequentially in the console:
 
 yarn install
+
 yarn start
 
 or
 
 npm install
+
 npm run start
