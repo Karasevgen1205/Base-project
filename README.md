@@ -12,4 +12,6 @@ or
 
 npm install
 
+npm run scss
+
 npm run start
